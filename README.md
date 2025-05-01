@@ -1,7 +1,5 @@
 # BioPixel: Investigating Bio-compatibile Materials for Wearable Eink Display Fabrication
 
-## Abstract
-
 BioPixel explores the development of a wearable E-Ink display using biocompatible E-Ink microcapsules
 embedded in a conductive hydrogel substrate. This project builds on home-made E-Ink microcapsules
 developed in Bristol. While these capsules are functional, they are still in the early stages of development,
